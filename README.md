@@ -67,3 +67,22 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 **Vamos na branch main e colocamos essas opções:**
 
 ![image](https://github.com/user-attachments/assets/a041a689-ecb8-4fe1-9e69-0586b2150605)
+
+# 6) Criando nossa pipeline de build
+**Agora vamos criar nossa pipeline de build. Vamos ir no editor classico dela**
+
+**A seguir, siga as imagens onde terá os passos e as configurações corretas pro projeto**
+
+**1)**
+![image](https://github.com/user-attachments/assets/798b8986-368c-4639-a883-b4986d0ce468)
+
+**2)**
+![image](https://github.com/user-attachments/assets/6ce89f5e-6989-40c7-b562-29afb619e1e8)
+
+**3)**
+![image](https://github.com/user-attachments/assets/91abb9d3-125c-4c5e-8b13-e18251f27242)
+
+**4)**
+![image](https://github.com/user-attachments/assets/88f9981f-00fc-4e71-8804-3424ca9797df)
+
+**5)**
