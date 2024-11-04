@@ -30,3 +30,17 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 **Agora você precisa entrar no seu portal da azure organizations para conseguir criar as pipelines**
 
 ![image](https://github.com/user-attachments/assets/86402edc-e8bf-4ee7-9f68-023094f04942)
+
+# 3) Criando um novo projeto
+**Dentro da própria página, você vai clicar em (+New Project). Em seguida, ele pedirá para você preencher os dados para a criação do projeto**
+
+![image](https://github.com/user-attachments/assets/8fdd06ef-a038-498d-8845-0f04930067aa)
+
+**Lembre-se de colocar como agile nas opções**
+
+![image](https://github.com/user-attachments/assets/0f6893c5-3ad1-4ba5-82b8-70bdf53da21c)
+
+# 4) Criando repos e importando projeto do github
+**Agora, você precisa ir na lateral esquerda e selecionar repos, em seguida, clique na opção de import a repository**
+
+![image](https://github.com/user-attachments/assets/563a9f43-1efe-4202-ad2c-d363de36ac5b)
