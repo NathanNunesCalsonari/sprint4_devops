@@ -145,3 +145,34 @@
 **Sua release começará a ser feita**
 
 ![image](https://github.com/user-attachments/assets/3d68f0a8-8293-47e0-861e-b602145260ec)
+
+**Após finalizar a build de release, sua aplicação estará pronta**
+
+![image](https://github.com/user-attachments/assets/a906f76b-54b2-4b95-889a-242029ea3a29)
+
+# 9) Acessando sua aplicação
+
+**No portal da azure, vá no seu serviço de aplicativo e clique no link de dominio que ele disponibiliza**
+
+**Seu link estará na parte de dominio**
+![image](https://github.com/user-attachments/assets/8da6a696-707c-4e10-b473-aaa5b5df9e0b)
+
+**A aplicação estará rodando e funcionando**
+
+![image](https://github.com/user-attachments/assets/bf16414b-fc51-4a6e-8d09-bac69e973102)
+
+# 10) Lembretes importantes
+
+**Dentro da aplicação, você precisa se registrar primeiro para depois conseguir acessar o site**
+
+**Você também precisa registrar primeiro uma empresa para depois conseguir registrar produtos**
+
+**Além disso, no arquivo application.propperties você precisa colocar as configurações do seu banco de dado**
+
+![image](https://github.com/user-attachments/assets/e533e621-6ec3-44e2-92e3-b35c1085bb04)
+
+**Para achar os dados do seu banco de dados, basta ir no portal da azure, acessar seu banco de dados e ir em cadeias de conexão e depois selecionar JDBC**
+
+![image](https://github.com/user-attachments/assets/efc06b41-37f0-4d38-93c0-ed1f9f8031fe)
+
+**Lembre-se de colocar sua senha nesse link que ele disponibiliza**
