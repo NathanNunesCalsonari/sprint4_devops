@@ -1,0 +1,64 @@
+{
+  "usuario": {
+    "create": {
+      "username": "novo_usuario",
+      "password": "senha_secreta"
+    },
+    "read": {
+      "username": "usuario_existente",
+      "password": "senha_correta"
+    },
+    "update": {
+      "username": "usuario_existente",
+      "oldPassword": "senha_antiga",
+      "newPassword": "nova_senha"
+    },
+    "delete": {
+      "username": "usuario_a_deletar"
+    }
+  },
+  "produto": {
+    "create": {
+      "nomeProduto": "Nome do Brinquedo",
+      "valorProduto": 49.99,
+      "empresaId": 1
+    },
+    "read": {
+      "id": 1,
+      "nomeProduto": "Nome do Brinquedo",
+      "valorProduto": 49.99,
+      "empresaId": 1
+    },
+    "update": {
+      "id": 1,
+      "nomeProduto": "Nome Atualizado do Brinquedo",
+      "valorProduto": 59.99,
+      "empresaId": 2
+    },
+    "delete": {
+      "id": 1
+    }
+  },
+  "empresa": {
+    "create": {
+      "nomeEmpresa": "Nome da Empresa",
+      "nomeFantasia": "Fantasia da Empresa",
+      "cnpj": "12.345.678/0001-99"
+    },
+    "read": {
+      "id": 1,
+      "nomeEmpresa": "Nome da Empresa",
+      "nomeFantasia": "Fantasia da Empresa",
+      "cnpj": "12.345.678/0001-99"
+    },
+    "update": {
+      "id": 1,
+      "nomeEmpresa": "Nome Atualizado da Empresa",
+      "nomeFantasia": "Fantasia Atualizada",
+      "cnpj": "12.345.678/0001-00"
+    },
+    "delete": {
+      "id": 1
+    }
+  }
+}
