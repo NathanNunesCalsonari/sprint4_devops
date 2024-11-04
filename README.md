@@ -91,3 +91,18 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 **6)**
 ![image](https://github.com/user-attachments/assets/355925b5-b36d-4c8e-a57b-64b3d84e5a46)
 
+**7) Importante colocar o **/target/*.jar no contents**
+
+![image](https://github.com/user-attachments/assets/de036836-0ec0-4600-a417-e4d6c951e045)
+
+**8)**
+![image](https://github.com/user-attachments/assets/146e65b1-ce8e-4253-8c8e-f9bda93a6023)
+
+**9)**
+![image](https://github.com/user-attachments/assets/f9a211ea-4b66-49ba-8578-fb548418b8f4)
+
+**Agora de um save & queue na pipeline**
+![image](https://github.com/user-attachments/assets/7b4e0235-e032-426f-8366-37159b805f0c)
+
+**Agora nosso projeto estará fazendo o build da pipeline**
+![image](https://github.com/user-attachments/assets/3b112e31-343f-4454-8a17-d9097b913d14)
