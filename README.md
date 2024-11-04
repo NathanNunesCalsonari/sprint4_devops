@@ -51,3 +51,19 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 
 ![image](https://github.com/user-attachments/assets/5c891c3a-049f-411d-b010-b53267ac86ae)
 
+# 5) Criando uma tarefa, criando uma branch e configurando a branch
+**Vamos criar um work item para a nossa branch. Nessa work item precisamos deixar ela ativa e criar uma branch a partir dela**
+
+![image](https://github.com/user-attachments/assets/6d8021c7-ac10-4fe4-9c74-4c0dba06e6e2)
+
+**Agora vamos ir na parte de branchs e veremos que temos a nossa branch criada**
+
+![image](https://github.com/user-attachments/assets/57e684d3-b564-49f9-bf6b-57a9fe422f11)
+
+**Vamos clicar nos 3 pontinhos e selecionar ela como "Set as compare branch" e depois vamos em branch policies**
+
+![image](https://github.com/user-attachments/assets/0f85f68b-f8f6-4b81-ba06-b24bffab078a)
+
+**Vamos na branch main e colocamos essas opções:**
+
+![image](https://github.com/user-attachments/assets/a041a689-ecb8-4fe1-9e69-0586b2150605)
