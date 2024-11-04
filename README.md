@@ -86,3 +86,8 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 ![image](https://github.com/user-attachments/assets/88f9981f-00fc-4e71-8804-3424ca9797df)
 
 **5)**
+![image](https://github.com/user-attachments/assets/c1b3d36d-d352-4978-b053-3f8eb7e1512c)
+
+**6)**
+![image](https://github.com/user-attachments/assets/355925b5-b36d-4c8e-a57b-64b3d84e5a46)
+
