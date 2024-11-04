@@ -44,3 +44,10 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 **Agora, você precisa ir na lateral esquerda e selecionar repos, em seguida, clique na opção de import a repository**
 
 ![image](https://github.com/user-attachments/assets/563a9f43-1efe-4202-ad2c-d363de36ac5b)
+
+**Agora coloque o link do repositório que está aqui em baixo e clique em import :**
+
+**Repositório:** https://github.com/NathanNunesCalsonari/sprint4_devops
+
+![image](https://github.com/user-attachments/assets/5c891c3a-049f-411d-b010-b53267ac86ae)
+
