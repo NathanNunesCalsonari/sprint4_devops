@@ -106,3 +106,47 @@ Após isso, precisa se registrar no site para ter acesso a lista de produtos e o
 
 **Agora nosso projeto estará fazendo o build da pipeline**
 ![image](https://github.com/user-attachments/assets/3b112e31-343f-4454-8a17-d9097b913d14)
+
+# 7) Habilitando opção de continuous integration
+**Após finalizar nosso build, vamos habilitar uma opção no triggers da pipeline**
+
+![image](https://github.com/user-attachments/assets/6bea0adb-afeb-40e4-9119-6764d9440277)
+
+**Habilitando a opção**
+![image](https://github.com/user-attachments/assets/ffde8ad5-2714-4188-82ca-ffed8c1ce42b)
+
+# 8) Criando a pipeline de release
+
+**Em pipelines, vamos em releases e vamos selecionar a opção de Azure App Service Deployment**
+
+![image](https://github.com/user-attachments/assets/97f2cc23-37de-42ca-b417-1706172251b0)
+
+**Agora, os próximos passos, siga as imagens a seguir para configurar certinho a pipeline de release**
+
+![image](https://github.com/user-attachments/assets/f44d1036-85cf-47bf-ad2a-084e46c82c8d)
+
+![image](https://github.com/user-attachments/assets/2e142b0e-7094-42b2-a819-b92f73e98aa2)
+
+![image](https://github.com/user-attachments/assets/726022a1-d760-4956-9cef-08fe4d5fa8d4)
+
+![image](https://github.com/user-attachments/assets/88699ccf-b12d-48b9-90b6-af735741fa74)
+
+**Nessa parte, você precisa colocar sua assinatura da azure e autorizar. Em seguuida, coloque o nome do seu aplicativo de serviço**
+
+![image](https://github.com/user-attachments/assets/98f4f988-a872-4485-a9b3-2cb32243ff2c)
+
+![image](https://github.com/user-attachments/assets/05333959-11a1-4c3e-ae75-da534a386462)
+
+**Importante colocar como .jar**
+
+![image](https://github.com/user-attachments/assets/4d64cec7-915f-414e-a5db-d6eed5775854)
+
+**Após essas configurações, clique em save e depois em create release**
+
+![image](https://github.com/user-attachments/assets/fd443af0-0c7e-438e-8e73-7a067e1b0588)
+
+![image](https://github.com/user-attachments/assets/4192565e-7b82-41b3-89ce-12bb7d7dae77)
+
+**Sua release começará a ser feita**
+
+![image](https://github.com/user-attachments/assets/3d68f0a8-8293-47e0-861e-b602145260ec)
